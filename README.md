@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a motivated and detail-oriented B.Sc. Computer Science student (Graduating 2025) with hands-on experience in:<br><br>Full-stack Web Development (React.js, Tailwind CSS, Clerk)<br><br>Cybersecurity fundamentals (Infosys Springboard certified)<br><br>Data Structures & Algorithms<br><br>Python, JavaScript, HTML, CSS
+I'm a motivated and detail-oriented B.Sc. Computer Science Artificial intelligence and machine learning student (Graduating 2026) with hands-on experience in:<br><br>Full-stack Web Development (React.js, Tailwind CSS, Clerk)<br><br>Cybersecurity fundamentals (Infosys Springboard certified)<br><br>Data Structures & Algorithms<br><br>Python, JavaScript, HTML, CSS
 
 
 # 💻 Tech Stack:
